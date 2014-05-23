@@ -53,6 +53,7 @@ public class DataTest {
 			System.out.print(x+" ");
 		}
 		bHeap.printHeap();
+
 		
 	}
 
